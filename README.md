@@ -27,7 +27,7 @@ Each project will include its own instructions. For this repository the README i
 
 
 ## Contact
-- GitHub: https://github.com/sneha-samanta21 (replace with your profile)
+- GitHub: https://github.com/sneha-samanta21
 - Email: snehashis.samanta.maity@gmail.com
 
 ---
